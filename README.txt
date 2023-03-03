@@ -5,3 +5,6 @@ Der Datensatz "Did it Rain in Seattle 1948-2017" enthält Wetterdaten für die S
 Spalten: Datum, Niederschlag in Inches (1 Zoll = 25,4 mm), maximale Temperatur in Fahrenheit und minimale Temperatur in Fahrenheit. Die letzte Spalte gibt an, ob es an 
 diesem Tag geregnet hat oder nicht. Der Datensatz kann für verschiedene Zwecke genutzt werden, wie zum Beispiel für die Vorhersage von Regen in Seattle basierend auf 
 historischen Wetterdaten.
+
+Im folgenden finden Sie einen Link zu diesem Datensatz:
+https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017
