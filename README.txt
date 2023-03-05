@@ -1,4 +1,3 @@
-# WetterInSeattle
 Dieses Repository wurde im Bezug auf die Leistungsbeurteilung im Modul 259 erstellt. 
 
 Der Datensatz "Did it Rain in Seattle 1948-2017" enthält Wetterdaten für die Stadt Seattle im US-Bundesstaat Washington von 1948 bis 2017. Die Tabelle besteht aus 4 
